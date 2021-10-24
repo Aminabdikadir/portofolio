@@ -1,0 +1,294 @@
+
+    .containor {
+            width: 1000px;
+            height: 1000px;
+            margin: 0 auto;}
+
+    .top {
+        width: 1000px;
+        height: 100px;
+
+
+        }
+
+
+        .logo {
+
+            width: 20%;
+            height: 100px;
+            float: left;
+            font-size: 27px;
+            font-family: cursive;
+            line-height: 50px;
+            color: #7F363E;
+
+        }
+            .menu {
+            width: 80%;
+            float: right;
+        list-style-type: none;
+                float: left;}
+        li{ font-weight: bold;
+            float:right;
+            padding: 15px 16px;
+            font-family: cursive;
+            color: #7F363E;
+
+
+                }
+
+
+
+        .hero{
+         width: 100%;
+         height: 300px;
+            float: left;
+            font-size: 15px;
+            font-style: /* IDEA:  */;
+            margin-top: -40px;
+            margin-right: 300px;
+            background-color: #EBEBEB;
+
+            }
+
+
+
+
+
+        .hero1 {
+             width: 100%;
+            font-size: 40px;
+            float: left;
+            margin-top: 50px;
+            text-align: center;
+            font-style: oblique;
+            font-family: cursive;
+
+
+
+
+        }
+
+        .hero2{
+          width: 100%;
+          height: 300PX;
+          float: right;
+
+
+
+        }
+        .hero2 .devider {
+          border: 1px solid #7F363E;
+              width: 300px;
+              margin:0 auto;
+              margin-top: 30px;
+             text-align: center;
+              margin: auto;
+              font-weight: 600;
+              margin-top: 30px;
+              margin: 300px;
+
+
+
+
+        }
+      .hero3{
+  width: 40%;
+  height: 300PX;
+  float: right;
+  margin: 10px;
+   }
+
+.myservice{
+  width: 100%;
+ font-size: 40px;
+ float: left;
+ margin-top: 50px;
+ text-align: center;
+ font-style: oblique;
+ font-family: cursive;
+ }
+ .line{
+   color: #800080;
+       margin-top: 250px;
+       width: 80%;
+       weight: 90px;
+       list-style: initial;
+ }
+
+.hero4{
+  width: 30%;
+  height: 300PX;
+  float: right;
+  margin: 10px;
+
+
+ }
+.hero5{
+  width: 30%;
+  height: 300PX;
+  float: left;
+  margin: 10px;
+  margin-right: 20px;
+}
+
+.hero6{
+
+  width: 30%;
+  height: 300PX;
+  float: none;
+  margin: 10px;
+
+
+}
+
+h4 {
+  width: 30%;
+font-weight: bold;
+  font-family: /* COMBAK:  */;
+  color: #7F363E;
+  font-size: 30px;
+  margin-bottom: 20px;
+  margin-top: 0;
+  margin: 0;
+float: left;
+
+}
+h5 {
+  width: 30%;
+font-weight: bold;
+  font-family: /* COMBAK:  */;
+  color: #7F363E;
+  font-size: 30px;
+  margin-bottom: 100px;
+  margin-top: 0;
+  margin: 0;
+  float: right;
+
+}
+h6{
+  width: 30%;
+  font-weight: bold;
+  font-family: /* COMBAK:  */;
+  color: #7F363E;
+  font-size: 30px;
+  margin-bottom: 100px;
+  margin-top: 0;
+  margin: 0;
+  float: right;
+
+}
+
+.hero7{
+  font-size: 40px;
+  float: left;
+  margin-top: 50px;
+  text-align: center;
+  font-style: oblique;
+  font-family: cursive;
+  width: 100%;
+  height: 100px;
+  background-color: #B97A95;
+  text-align: right;
+  margin-left: 40px;
+  margin-bottom: 20px;
+
+
+
+}
+
+.contactme{
+  width: 90%;
+  display: flex;
+  margin-bottom: 40px;
+  margin-top: -50px;
+  font-size: 35px;
+
+
+
+}
+.who{
+  width: 25%;
+  display: flex;
+  margin-bottom: 40px;
+  margin-top: -60px;
+  font-size: 35px;
+  float: right;
+  margin-right: 5PX
+  border: solid 9px #EEC4C4;
+
+}
+
+.HOME{
+  width: 25%;
+  display: flex;
+  margin-bottom: 40px;
+  margin-top: -60px;
+  font-size: 35px;
+  float: right;
+  margin-right: 5PX
+  border: solid 9px #EEC4C4;
+
+}
+.hay{
+  width: 90%;
+  display: flex;
+  margin-bottom: 10px;
+  margin-top: -60px;
+  font-size: 35px;
+margin: 90PX;
+color: #AA2B1D;
+}
+
+
+ form {
+   float: right;
+   font-style: oblique;
+   background-color: #EEC4C4;
+   padding: 20px;
+
+ }
+        img{
+          margin-left: 500px;
+          height: 300PX;
+          margin-top: -200PX;
+          margin-bottom: 200px;
+          float: right;
+
+
+
+
+        }
+
+
+        hr{ font-style: oblique;
+ color: #800080;
+ font-family: fantasy;
+     margin-top: 250px;
+     width: 50%;
+    line-height: normal;
+
+}
+P{  font-weight: bold;
+    font-family: /* IDEA:  */;
+    color: #7F363E;
+
+}
+h3{
+  font-weight: bold;
+      font-family: sans-serif;
+      color: BLACK;
+      font-size: 15px;
+    }
+    footer{
+      width: 65%;
+      height:50px;
+
+margin-top: 50px;
+background-color: #363636;
+text-align: center;
+align-items: center;
+padding-left: 400px;
+display: flex;
+color: white;
+    }
